@@ -51,7 +51,7 @@ h1 {
 	  border-bottom: 1px solid #4B4A4A;
 }
 
-#search a:link, #nav a:visited {
+#search a:link, #search a:visited {
 	  display:block;
     color: #580333;
     background-color: #878686;
@@ -62,7 +62,7 @@ h1 {
     font-family: Helvetica, Arial, sans-serif;
 }
 
-#search a:hover, #nav a:active {
+#search a:hover, #search a:active {
     background-color: #606060;
 }
 
