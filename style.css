@@ -38,3 +38,12 @@ h1 {
 #nav a:hover, #nav a:active {
     background-color: #606060;
 }
+
+.caption {
+    color: black;
+    font-family: Georgia, "Times New Roman", serif;
+    font-style: italic;
+    font-size: 0.8em;
+    margin-top: 0;
+    text-align: left;
+}
