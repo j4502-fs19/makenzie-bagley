@@ -5,7 +5,7 @@ p {
 }
 
 h1 {
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: 'Gayathri', sans-serif;
   color: #580333;
 }
 
@@ -29,11 +29,11 @@ h1 {
 	  display:block;
     color: #580333;
     background-color: #878686;
-    font-weight: bold;
+    font-weight: 700;
     text-align:center;
     text-decoration: none;
     padding: 4px;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: 'Gayathri', sans-serif;
 }
 
 #nav a:hover, #nav a:active {
@@ -55,11 +55,11 @@ h1 {
 	  display:block;
     color: #580333;
     background-color: #878686;
-    font-weight: bold;
+    font-weight: 700;
     text-align:center;
     text-decoration: none;
     padding: 4px;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: 'Gayathri', sans-serif;
 }
 
 #search a:hover, #search a:active {
