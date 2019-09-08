@@ -33,7 +33,7 @@ h1 {
     text-align:center;
     text-decoration: none;
     padding: 4px;
-    font-family: 'Gayathri', sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 
 #nav a:hover, #nav a:active {
@@ -59,7 +59,7 @@ h1 {
     text-align:center;
     text-decoration: none;
     padding: 4px;
-    font-family: 'Gayathri', sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 
 #search a:hover, #search a:active {
@@ -68,7 +68,7 @@ h1 {
 
 .caption {
     color: black;
-    font-family: Georgia, "Times New Roman", serif;
+    font-family:'Raleway', sans-serif;
     font-style: italic;
     font-size: 0.8em;
     margin-top: 0;
