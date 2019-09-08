@@ -1,17 +1,21 @@
 
 p {
-  color: black;
+  color: #FFA1A0;
   font-family: 'Hepta Slab', serif;
 }
 
 h1 {
   font-family: 'Gayathri', sans-serif;
-  color: #580333;
+  color: #001b63;
 }
 
 #container {
   width: 95%;
   margin: 0 auto;
+}
+
+#container {
+  background-color: white;
 }
 
 #nav {
@@ -27,8 +31,8 @@ h1 {
 
 #nav a:link, #nav a:visited {
 	  display:block;
-    color: #580333;
-    background-color: #878686;
+    color: #FFA1A0;
+    background-color: #011345;
     font-weight: 700;
     text-align:center;
     text-decoration: none;
@@ -37,7 +41,7 @@ h1 {
 }
 
 #nav a:hover, #nav a:active {
-    background-color: #606060;
+    background-color: #001b63;
 }
 
 #search {
@@ -53,8 +57,8 @@ h1 {
 
 #search a:link, #search a:visited {
 	  display:block;
-    color: #580333;
-    background-color: #878686;
+    color: #FFA1A0;
+    background-color: #011345;
     font-weight: 700;
     text-align:center;
     text-decoration: none;
@@ -63,7 +67,7 @@ h1 {
 }
 
 #search a:hover, #search a:active {
-    background-color: #606060;
+    background-color: #001b63;
 }
 
 .caption {
