@@ -1,0 +1,29 @@
+
+.container {
+	display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: space-around;
+}
+
+.container {
+	padding: 10px;
+	background: #fff;
+  border-radius: 5px;
+	margin: 45px auto;
+  box-shadow: 0 1.5px 0 0 rgba(0,0,0,0.1);
+}
+.item {
+	color: #FFA1A0;
+	padding: 15px;
+	margin: 5px;
+	background: #011345;
+	border-radius: 3px;
+  font-family:  'Raleway', sans-serif;
+  text-decoration: none;
+}
+
+.item a:link, .item a:visited {
+	color: #FFA1A0;
+}
