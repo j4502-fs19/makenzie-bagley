@@ -9,6 +9,11 @@ h1 {
   color: #001b63;
 }
 
+h2 {
+  font-family: 'Gayathri', sans-serif;
+  color: #001b63;
+}
+
 #container {
   width: 95%;
   margin: 0 auto;
@@ -89,3 +94,28 @@ h1 {
 img {
 	border: none;
 }
+
+.cards {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-gap: 20px;
+        grid-template-areas:
+            "a a b"
+            ". d d"
+            "c e e";
+        grid-auto-flow: row;
+    }
+    .cards li {
+        background-color: white;
+        border: 1px solid #ccc;
+        padding: 10px;
+        border-radius: 5px;
+    }
+
+    media .cards {
+      max-width: 300px;
+      min-width: 100px;
+    }
