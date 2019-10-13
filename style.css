@@ -12,6 +12,7 @@ h1 {
 h2 {
   font-family: 'Gayathri', sans-serif;
   color: #001b63;
+  text-align: center;
 }
 
 #container {
@@ -103,6 +104,7 @@ img {
     grid-gap: 20px;
     grid-template-columns: auto;
     grid-auto-rows: minmax(150px, auto);
+    align-items: stretch;
     justify-content: center;
 }
 
@@ -114,6 +116,8 @@ img {
     .card2 {
       grid-row-start: 1;
       grid-column-start: 3;
+      align-items: center;
+
     }
 
     .card3 {
